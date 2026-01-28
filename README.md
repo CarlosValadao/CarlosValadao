@@ -6,13 +6,14 @@
 
 ## 👨‍🎓 Sobre mim
 
-Desenvolvedor de Software com ênfase em Sistemas Embarcados , atualmente residentes do programa EmbarcaTech no **[CEPEDI](cepedi.org.br)**, bacharelando em Engenharia de Computação na **[UEFS](http://www.uefs.br/).**
+Sou apaixonado por sistemas de baixo nível e sistemas embarcados. Possuo experiência prática com a plataforma RP2040, ATMega e 8051, focando na escrita de código C/C++ eficiente para gerenciamento de recursos e periféricos. Além disso, a integração de sistemas inteligentes via protocolos de rede IoT, buscando criar soluções que unam hardware e software de forma escalável.
+Atualmente residentes do programa EmbarcaTech no **[CEPEDI](cepedi.org.br)**, bacharelando em Engenharia de Computação na **[UEFS](http://www.uefs.br/).**
 
 <div style="display: inline_block"  align="left"><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" height="30"/>
+    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" height="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" height="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30" height="30" alt="Linux"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="30" height="30" alt="Spring"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="30" height="30" alt="Spring"/> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="30" height="30" alt="Angular"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" alt="Python"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30" height="30" alt="Postman"/>

@@ -45,17 +45,17 @@ Atualmente residentes do programa EmbarcaTech no **[CEPEDI](cepedi.org.br)**, ba
 
 ---
 
-## Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-valadao-3b81531bb/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chovaladao@gmail.com)
-
----
-
 ## Minhas Atividades Recentes
 <div align="center">
   <!-- Gráfico de contribuições (todos os anos) -->
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosValadao&theme=monokai" alt="Contribuições ao longo dos anos"/>
 </div>
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-valadao-3b81531bb/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chovaladao@gmail.com)
 
 ---
